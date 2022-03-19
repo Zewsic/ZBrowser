@@ -3,12 +3,14 @@ Cross platform MultiFunctional Browser and Tor client on Python
 
 To DO:
 - [X] Basic Browser
-  - [ ] Tabs
-  - [ ] Downloader files
+   - [ ] Tabs
+   - [ ] Downloader files
 - [ ] Tor network support
-  - [ ] MultyProxy
-  - [ ] .onion v2
-  - [ ] .onion v3
+   - [ ] MultyProxy
+   - [ ] .onion v2
+   - [ ] .onion v3
 - [ ] Offline Net
- - [ ]  Offline search
- - [ ]  Offline packs 
+   - [ ]  Offline search
+   - [ ]  Offline packs 
+- [ ] History
+- [ ] Bookmarks 
