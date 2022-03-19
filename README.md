@@ -2,7 +2,7 @@
 Cross platform MultiFunctional Browser and Tor client on Python
 
 To DO:
-- [ ] Basic Browser
+- [X] Basic Browser
   - [ ] Tabs
   - [ ] Downloader files
 - [ ] Tor network support
