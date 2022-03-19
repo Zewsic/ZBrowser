@@ -1,5 +1,5 @@
 # ZBrowser
-Cross platform MultiFunctional Browser and Tor client on Python
+Cross platform MultiFunctional Browser with tor support on Python
 
 To DO:
 - [X] Basic Browser
